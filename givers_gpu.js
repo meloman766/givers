@@ -1,18 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.givers1000 = exports.givers100 = void 0;
-exports.givers100 = [
-    { address: 'EQCfwe95AJDfKuAoP1fBtu-un1yE7Mov-9BXaFM3lrJZwqg_', reward: 100 },
-    { address: 'EQBoATvbIa9vA7y8EUQE4tlsrrt0EhSUK4mndp49V0z7Me3M', reward: 100 },
-    { address: 'EQAV3tsPXau3VJanBw4KCFaMk3l_n3sX8NHZNgICFrR-9EGE', reward: 100 },
-    { address: 'EQAR9DvLZMHo9FAVMHI1vHvL7Fi7jWgjKtUARZ2S_nopQRYz', reward: 100 },
-    { address: 'EQC10L__G2SeEeM2Lw9osGyYxhoIPqJwE-8Pe7728JcmnJzW', reward: 100 },
-    { address: 'EQDZJFkh12kw-zLGqKSGVDf1V2PRzedGZDFDcFml5_0QerST', reward: 100 },
-    { address: 'EQCiLN0gEiZqthGy-dKl4pi4kqWJWjRzR3Jv4jmPOtQHveDN', reward: 100 },
-    { address: 'EQDB8Mo9EviBkg_BxfNv6C2LO_foJRXcgEF41pmQvMvnB9Jn', reward: 100 },
-    { address: 'EQAidDzp6v4oe-vKFWvsV8MQzY-4VaeUFnGM3ImrKIJUIid9', reward: 100 },
-    { address: 'EQAFaPmLLhXveHcw3AYIGDlHbGAbfQWlH45WGf4K4D6DNZxY', reward: 100 }, // 100
-];
+exports.givers100000 = exports.givers10000 = exports.givers1000 = void 0;
 exports.givers1000 = [
     { address: 'EQBUmN2uinHEFjBymG3SV010oeDABQ_8R-z1PRuV1YLRImL9', reward: 1000 },
     { address: 'EQC51U_4w6ItbeHvQs0RhuT3cwsytrDaJbG55BU-ZAzUfB4n', reward: 1000 },
@@ -23,7 +11,19 @@ exports.givers1000 = [
     { address: 'EQAWSBd3IiRJQiTWr2qjYNgUFCA0u6zSs5H6S3ghOeMp0s-r', reward: 1000 },
     { address: 'EQCklqxLokjCHkujRzAZMlaGM4JSUHS3IpUhqQ6y8mzD2DiL', reward: 1000 },
     { address: 'EQAD7ylSr3X0TVUrjtpaaLhEwZYi9ucCAjdhjANF4SLpFcrr', reward: 1000 },
-    { address: 'EQAdugQfgubyVOtzcfn-ca7WEyepnp7BYP5oS0w5A15zIH78', reward: 1000 }, // 1000
+    { address: 'EQAdugQfgubyVOtzcfn-ca7WEyepnp7BYP5oS0w5A15zIH78', reward: 1000 }, // 1 000
+];
+exports.givers10000 = [
+    { address: 'EQABlpocRxDoECjBtorHZlsgM2VgZQ1UKKgEFKnjeJVKxP-e', reward: 10000 },
+    { address: 'EQBo4OMBbxgWpi5UWSKmwakunaSE9Tbd2xgLks11nEztixtZ', reward: 10000 },
+    { address: 'EQChDqooVTDnsrM1B_GA9ZeOc9pu2GsbWKYS9kC1kJ_k4ZK5', reward: 10000 },
+    { address: 'EQCxZ8ukAahVKy3Dg27IDS0nV05HJWkrd-7Wi-JfC2E6NAj5', reward: 10000 },
+    { address: 'EQB6LBRHsstRCndcD5ZpfgxcEvK91tIPuFbGJdECgepBbYaz', reward: 10000 },
+    { address: 'EQDpaCRCX4pGJTfW5JCmR6XEAkyiy5HvV0PW6D3pilab9tP1', reward: 10000 },
+    { address: 'EQCDs928jTG3HlPp_RXoL8T9frOjnXog_aTyUmjej9mX6G3Q', reward: 10000 },
+    { address: 'EQArQu09ulZPDpGUzkgArORvJskCVsFuCcj_OAUF7Pqv27Q8', reward: 10000 },
+    { address: 'EQB50X6c1LWseWBe28HrG74Iuq7W1DfVxIRkFKNAEohW1QHh', reward: 10000 },
+    { address: 'EQBc5-jYQYylQCvjRhwKC7lm8B10fLBrri1mOWUSPHoaB_1o', reward: 10000 }, // 10 000
 ];
 exports.givers10000 = [
     { address: 'EQAY4LHfgqInZTekX9SDBmbBimShl3OdmTnQGSw82DQBNKAQ', reward: 10000 },
